@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListaToDo</string>
+    <string name="textview">TextView</string>
+    <string name="date">Date:</string>
+    <string name="name">Name</string>
+    <string name="unesi_tekst">Unesi Tekst</string>
+    <string name="status">Status</string>
+</resources>
